@@ -1,2 +1,2 @@
 # CGPA_calculator
-CGPA_calculator
+CGPA Calculator 🎓
